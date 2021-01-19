@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 </p>
 
 - ⚡ Fun fact: J'étudie le français et 日本語 (I am learning French and Japanese for fun!)
+- ⚡ The stats below looks pleasing with Dark theme. Sorry glaring white screen users!
 
 ### GitHub Stats
 
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ShonenAsh&show_icons=true&title_color=212121&icon_color=819ca9&text_color=6d6d6d&bg_color=fff)
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ShonenAsh&show_icons=true&title_color=FFF&icon_color=e94859&text_color=FFF&bg_color=211c1d)
 
