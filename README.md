@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 - ⚡ Fun fact: J'étudie le français et 日本語 (I am learning French and Japanese for fun!)
-- ⚡ The stats below look pleasing with Dark theme. Sorry glaring white screen users!
+- ⚡ This page is better viewed with dark theme.
 
 ### GitHub Stats
 
