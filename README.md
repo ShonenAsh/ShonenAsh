@@ -27,8 +27,10 @@ Here are some ideas to get you started:
   
 ### 🛠️ Tools & Technologies
 <p>
-  <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%237CBB5D.svg?style=flat-square&logo=spring-boot&logoColor=black" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Apache%20Kafka-%236A6A6A.svg?style=flat-square&logo=apache-kafka&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
 <br>
