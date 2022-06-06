@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-- ⚡ Fun fact: J'étudie le français et 日本語 (I am learning French and Japanese for fun!)
+- ⚡ Fun fact: I am currently learning German and Japanese for fun!
 - ⚡ This page is better viewed with dark theme.
 
 ### GitHub Stats
