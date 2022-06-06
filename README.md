@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ShonenAsh&show_icons=true&title_color=FFF&icon_color=e94859&text_color=FFF&bg_color=211c1d)
+![Ashish's 2022 github stats](https://github-readme-stats.vercel.app/api?username=ShonenAsh&show_icons=true&title_color=FFF&icon_color=e94859&text_color=FFF&bg_color=211c1d)
 
