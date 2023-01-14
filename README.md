@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on Deep Q-learning, App & Web development
-- 👯 I’m looking to collaborate on Kotlin/JVM Projects
+- 🌱 I’m currently working on Backend systems using Spring Boot and Java
+- 👯 I’m looking to collaborate on Java/Python Projects
 
 ### 📫 Contact me:
   <a href="https://www.twitter.com/shonenash/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
