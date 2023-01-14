@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on Backend systems using Spring Boot and Java
+- 🌱 I’m currently working on backend systems using Spring Boot and Java
 - 👯 I’m looking to collaborate on Java/Python Projects
 
 ### 📫 Contact me:
