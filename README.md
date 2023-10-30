@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on backend systems using Spring Boot and Java
-- 👯 I’m looking to collaborate on Java/Python Projects
+- 🌱 I’m currently a Data Science graduate student
+- 💼 Previously, I worked as a fullstack developer where I built web apps and services with Java/Spring, Python and React.
+- 🤖 I also dabble in Machine Learning projects
+- 👯 I’m looking to collaborate on Java/Python/JS-based Projects
 
 ### 📫 Contact me:
   <a href="https://www.twitter.com/shonenash/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
