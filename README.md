@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 ### 🛠️ Tools & Technologies
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%237CBB5D.svg?style=flat-square&logo=spring-boot&logoColor=black" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Apache%20Kafka-%236A6A6A.svg?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%236A6A6A.svg?style=flat-square&logo=keras&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
 <br>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white" />
+<!--   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" /> -->
 </p>
 
 - ⚡ Fun fact: I am currently learning German and Japanese for fun!
