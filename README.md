@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently a Data Science graduate student
+- 🌱 I work at a stealth startup as an AI/ML Engineer Intern. Apart from work, I am also a Data Science graduate student @ Northeastern University, Boston MA.
 - 💼 Previously, I worked as a fullstack developer where I built web apps and services with Java/Spring, Python and React.
 - 🤖 I also dabble in Machine Learning projects
 - 👯 I’m looking to collaborate on Java/Python/JS-based Projects
