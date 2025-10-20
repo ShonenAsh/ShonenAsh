@@ -10,7 +10,9 @@ What languages do I speak?
 English, Kannada (Cuh-nadda), Hindi, Marathi. I'm trying my best to learn Japanese.
 
 Want to hear something interesting and nerdy?
+
 {K ∩ H} ⊂ S
+
 {H - {K ∩ S}} ⊂ P
 
 While this pattern has many exceptions, what I am trying to convey here is that words common between Kannada and Hindi, are mostly derived from Sanskrit. And if a Sanskrit loan word appears in Kannada but not in Hindi, it mostly came from Persian/Arabic.
