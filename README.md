@@ -15,7 +15,7 @@ Want to hear something interesting and nerdy?
 
 {H - {K ∩ S}} ⊂ P
 
-While this pattern has many exceptions, what I am trying to convey here is that words common between Kannada and Hindi, are mostly derived from Sanskrit. And if a Sanskrit loan word appears in Kannada but not in Hindi, it mostly came from Persian/Arabic.
+While this pattern has many exceptions, what I am trying to convey here is that words in common between Kannada and Hindi, are mostly derived from Sanskrit. And if a Sanskrit loan word appears in Kannada but not in Hindi, it mostly came from Persian/Arabic.
 This simple pattern reveals a lot about the history of the India subcontinent and it's diverse ethnicities.
 
 TLDR: We can use simple reasoning to find the etymology of many words of languages from the Indian subcontinent.
