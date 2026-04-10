@@ -7,6 +7,6 @@ Previously, I worked as a full-stack software engineer for 2 years, and more rec
 
 Outside of tech, I admire creativity and also daddble in art. Linguistic anthropology & history in general have piqued my interest from time to time and I am avid enjoyer of simulation/sandbox video games. 
 
-Currently, I am actively looking for a job. If you find my work interesting and want to reach out:  < lastname><firstname ><100-1> at the rate gmail.
+I am actively looking for a full-time job, so if you find my work interesting and want to reach out, here's my email:  < lastname><firstname ><100-1> at the rate gmail.
 
 
