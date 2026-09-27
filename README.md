@@ -1,12 +1,11 @@
-### Hello! 👋 
+### Hello! I am Ashish M. 👋 
 
+ I'm a software and AI engineer. I'm currently an AI Engineer on a research team at Northeastern University, where I study how documentation structure affects LLM hallucination when models generate code for scientific software. I build execution-based evaluation harnesses and benchmark pipelines for open-source models.
 
-I am Ashish M. a Data Science graduate @ Northeastern University, Boston MA. Currently I am working as a research assistant at Northeastern.
-
-Previously, I worked as a full-stack software engineer for 2 years, and more recently as an AI engineer intern building agentic frameworks with LLMs. I also hold a Bachelor's degree in Computer Science & Engineering from KLETech, KA, India.
+Before that, I spent two years as a fullstack engineer at Accenture, building frontends with React and Node.js, data pipelines in Python, and Java microservices with Spring Boot that served 11M+ customers. I also interned at a legal-tech startup, where I built a RAG-based LLM application with Django and React. I hold a Master's in Data Science from Northeastern. 
 
 Outside of tech, I admire creativity and also daddble in art. Linguistic anthropology & history in general have piqued my interest from time to time and I am avid enjoyer of simulation/sandbox video games. 
 
-I am actively looking for a full-time job, so if you find my work interesting and want to reach out, here's my email:  < lastname >< firstname ><100-1> at the rate gmail.
+I am actively looking for a full-time job, so if you find my work interesting and want to reach out, here's my email:  <magadumashish99> at the rate gmail.
 
 
